@@ -1,4 +1,4 @@
-# Simple Pygame Timer
+# Study-Track
 
 A small desktop timer built with Python and Pygame. Features a clean UI with **Pause** and **Unpause** buttons. Nothing fancy, just works.
 
@@ -21,7 +21,7 @@ if u dont have pygame install it via:-
 pip install pygame
 ```
 
-# Run the timer script:
+## Run the timer script:
 
 ```bash 
 python timer.py
@@ -29,3 +29,13 @@ python timer.py
 
 - Click Pause to stop the timer.
 - Click Unpause to resume.
+
+
+## Future Plans
+
+- Multiple clocks/timers running simultaneously for different tasks 
+- Logging time for productivity tracking
+- Session History & Analytics
+- Themed or customizable UI
+- Export logs to JSON or CSV for analysis
+- Pomodoro Mode 
